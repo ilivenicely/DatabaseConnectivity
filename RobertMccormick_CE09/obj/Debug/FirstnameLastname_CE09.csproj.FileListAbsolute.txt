@@ -1,0 +1,10 @@
+D:\Project\OutSource\winform tutorial\Source\FirstnameLastname_CE09\bin\Debug\FirstnameLastname_CE09.exe.config
+D:\Project\OutSource\winform tutorial\Source\FirstnameLastname_CE09\bin\Debug\FirstnameLastname_CE09.exe
+D:\Project\OutSource\winform tutorial\Source\FirstnameLastname_CE09\bin\Debug\FirstnameLastname_CE09.pdb
+D:\Project\OutSource\winform tutorial\Source\FirstnameLastname_CE09\bin\Debug\MySql.Data.dll
+D:\Project\OutSource\winform tutorial\Source\FirstnameLastname_CE09\obj\Debug\FirstnameLastname_CE09.csprojResolveAssemblyReference.cache
+D:\Project\OutSource\winform tutorial\Source\FirstnameLastname_CE09\obj\Debug\FirstnameLastname_CE09.Form1.resources
+D:\Project\OutSource\winform tutorial\Source\FirstnameLastname_CE09\obj\Debug\FirstnameLastname_CE09.Properties.Resources.resources
+D:\Project\OutSource\winform tutorial\Source\FirstnameLastname_CE09\obj\Debug\FirstnameLastname_CE09.csproj.GenerateResource.Cache
+D:\Project\OutSource\winform tutorial\Source\FirstnameLastname_CE09\obj\Debug\FirstnameLastname_CE09.exe
+D:\Project\OutSource\winform tutorial\Source\FirstnameLastname_CE09\obj\Debug\FirstnameLastname_CE09.pdb
