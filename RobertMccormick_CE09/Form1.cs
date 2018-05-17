@@ -1,8 +1,4 @@
-﻿//Robert Mccormick
-//Frameworks
-//Term 3
-//RobertMccormick_CE09
-
+ 
 using MySql.Data.MySqlClient;
 using System;
 using System.Collections.Generic;
